@@ -1,7 +1,0 @@
-pandas
-numpy
-requests
-sklearn
-datetime
-pytz
-Weather Data Source: OpenWeatherMap API
